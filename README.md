@@ -25,6 +25,13 @@ Here, apps, games, knowledge, and civic tools live directly on a 3D globe that r
 <p align="center" style="max-width: 800px; margin: auto; text-align: justify;">
 Discover by geography, not keywords. Instantly create and collaborate through prompt-to-app, prompt-to-game, prompt-to-idea, prompt-to-solution workflows, brainstormings, and collective missions—all within one intuitive interface and without any infrastructure costs.
 </p>
+<br><br>
+
+<a href="https://x.com/peace_engine/status/1959419408516067596/video/1" target="_blank"><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc1db876-4ced-4fa4-bae7-b4fc39940bde" />
+</a>
+
+
+
 
 <br><br>
 
