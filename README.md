@@ -1,4 +1,5 @@
 <p align="center">
+<img width="1024" height="1024" alt="cloudatlasoslogo" src="https://github.com/user-attachments/assets/cea5a852-06bd-44f0-ae92-93d4f58acf93" />
   <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/59d2e2e6-46a7-49f4-82e6-12aff6a61bcf" />
 </p>
 
